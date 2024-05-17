@@ -6,6 +6,10 @@
 
 Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.maelyn.my.id untuk full fiturnya.
 
+## Server
+- https://clayza.my.id *[ Clayza Server ]* | **OFF**
+- https://rosalyn.my.id *[ Rosalyn Server ]* | **OFF**
+- https://aubert.my.id *[ Aubert Server ]* | **OFF**
 
 ## Features
 
