@@ -11,6 +11,9 @@ Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.ma
 - https://rosalyn.my.id *[ Rosalyn Server ]* | **OFF**
 - https://aubert.my.id *[ Aubert Server ]* | **OFF**
 
+## Disclaimer
+Kami tidak pernah menyimpan akun pengguna di dalam sistem kami. Kami hanya menyediakan API sebagai pihak ketiga untuk diintegrasikan ke dalam aplikasi Anda.
+
 ## Features
 
 - Payment Gateway (Saweria)
@@ -76,4 +79,9 @@ Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.ma
 | :-------- | :------- | :------------------------- |
 | `email` | `string` | **Required**. Your Email Saweria |
 | `password` | `string` | **Required**. Your Password Saweria |
+
+
+## Contributors
+- [@ClayzaAubert](https://github.com/ClayzaAubert)
+- [@Arifzyn19](https://github.com/arifzyn19)
 
