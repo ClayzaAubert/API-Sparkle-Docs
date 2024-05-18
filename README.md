@@ -14,6 +14,8 @@ Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.ma
 ## Disclaimer
 Kami tidak pernah menyimpan akun pengguna di dalam sistem kami. Kami hanya menyediakan API sebagai pihak ketiga untuk diintegrasikan ke dalam aplikasi Anda.
 
+Follow Channel WhatsApp saya untuk notifikasi jika API ini update https://s.id/MaelynChannel
+
 ## Features
 
 - Payment Gateway (Saweria)
