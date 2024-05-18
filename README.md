@@ -4,7 +4,12 @@
 
 # API Sparkle
 
-Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.maelyn.my.id untuk full fiturnya.
+API ini Adalah API FREE Kalian bisa memakainya tanpa limit harian. Di mohon untuk mengunakanya dengan bijak.
+
+Kunjungi [API Maelyn](htttps://api.maelyn.me.id) Untuk Fitur yang lebih banyak.
+
+#### Donation
+- [Saweria](https://saweria.co/ClayzaAubert)
 
 ## Server Domain
 - https://clayza.biz.id *[ Clayza Server ]* | **ON**
@@ -14,7 +19,7 @@ Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.ma
 ## Disclaimer
 Kami tidak pernah menyimpan akun pengguna di dalam sistem kami. Kami hanya menyediakan API sebagai pihak ketiga untuk diintegrasikan ke dalam aplikasi Anda.
 
-Follow Channel WhatsApp saya untuk notifikasi jika API ini update https://s.id/MaelynChannel
+Follow Channel WhatsApp saya untuk notifikasi UPDATE pada API Sparkle INI [Channel](https://s.id/MaelynChannel)
 
 ## Features
 
