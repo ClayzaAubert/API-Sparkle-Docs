@@ -1,0 +1,5 @@
+{
+  powered: 'Powered By Saweria',
+  status: true,
+  data: { pending: 850, available: 0 }
+}
