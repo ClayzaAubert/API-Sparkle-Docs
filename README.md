@@ -19,7 +19,7 @@ Kunjungi [API Maelyn](https://api.maelyn.me.id) Untuk Fitur yang lebih banyak.
 ## Disclaimer
 Kami tidak pernah menyimpan akun pengguna di dalam sistem kami. Kami hanya menyediakan API sebagai pihak ketiga untuk diintegrasikan ke dalam aplikasi Anda.
 
-Follow Channel WhatsApp saya untuk notifikasi UPDATE pada API Sparkle INI [Channel](https://s.id/MaelynChannel)
+Follow [Channel WhatsApp](https://s.id/MaelynChannel) saya untuk notifikasi UPDATE pada API Sparkle ini.
 
 ## Features
 
