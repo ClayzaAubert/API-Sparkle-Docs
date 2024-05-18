@@ -33,9 +33,10 @@ Follow Channel WhatsApp saya untuk notifikasi UPDATE pada API Sparkle INI [Chann
 
 ```http
   GET /:username/:repository/:path(*)
-  EXAMPLE /ClayzaAubert/library/ALAN%20WALKER%20LILY.mp3
 ```
-
+```http
+  EXAMPLE https://clayza.biz.id/ClayzaAubert/API-Sparkle-Docs/Result-Saweria-Login.json
+```
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `username` | `string` | **Required**. Username Github |
@@ -47,6 +48,7 @@ Follow Channel WhatsApp saya untuk notifikasi UPDATE pada API Sparkle INI [Chann
 ```http
   POST /api/saweria/login
 ```
+[Result](https://clayza.biz.id/ClayzaAubert/API-Sparkle-Docs/Result-Saweria-Login.json)
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -58,6 +60,7 @@ Follow Channel WhatsApp saya untuk notifikasi UPDATE pada API Sparkle INI [Chann
 ```http
   POST /api/saweria/createPayment
 ```
+[Result](https://clayza.biz.id/ClayzaAubert/API-Sparkle-Docs/Result-Saweria-CreatePayment.json)
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
@@ -70,6 +73,7 @@ Follow Channel WhatsApp saya untuk notifikasi UPDATE pada API Sparkle INI [Chann
 ```http
   GET /api/saweria/checkPayment/:user_id/:id
 ```
+[Result](https://clayza.biz.id/ClayzaAubert/API-Sparkle-Docs/Result-Saweria-CheckPayment.json)
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -81,6 +85,7 @@ Follow Channel WhatsApp saya untuk notifikasi UPDATE pada API Sparkle INI [Chann
 ```http
   POST /api/saweria/balance
 ```
+[Result](https://clayza.biz.id/ClayzaAubert/API-Sparkle-Docs/Result-Saweria-CheckBalance.json)
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
