@@ -7,14 +7,14 @@
     created_at: 'Sat, 18 May 2024 22:16:30 GMT',
     currency: 'IDR',
     donator: {
-      email: 'orfias7@gmail.com',
-      first_name: 'Payment Gateway',
+      email: 'EMAIL_DONATUR',
+      first_name: 'NAME_DONATUR',
       phone: null
     },
     donator_id: null,
     etc: {},
     id: 'ID_Payment',
-    message: 'Payment for order',
+    message: 'MESSAGE',
     need_notification: false,
     payment_type: 'qris',
     qr_string: 'QRIS_STRING',
