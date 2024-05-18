@@ -8,8 +8,8 @@ Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.ma
 
 ## Server
 - https://clayza.my.id *[ Clayza Server ]* | **OFF**
-- https://rosalyn.my.id *[ Rosalyn Server ]* | **OFF**
-- https://aubert.my.id *[ Aubert Server ]* | **OFF**
+- https://rosalyn.my.id *[ Rosalyn Server ]* | **ON**
+- https://aubert.my.id *[ Aubert Server ]* | **ON**
 
 ## Disclaimer
 Kami tidak pernah menyimpan akun pengguna di dalam sistem kami. Kami hanya menyediakan API sebagai pihak ketiga untuk diintegrasikan ke dalam aplikasi Anda.
