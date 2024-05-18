@@ -6,7 +6,7 @@
 
 API ini Adalah API FREE Kalian bisa memakainya tanpa limit harian. Di mohon untuk mengunakanya dengan bijak.
 
-Kunjungi [API Maelyn](htttps://api.maelyn.me.id) Untuk Fitur yang lebih banyak.
+Kunjungi [API Maelyn](https://api.maelyn.me.id) Untuk Fitur yang lebih banyak.
 
 #### Donation
 - [Saweria](https://saweria.co/ClayzaAubert)
