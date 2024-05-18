@@ -1,0 +1,29 @@
+{
+  powered: 'Powered By Saweria',
+  status: true,
+  data: {
+    amount: 1000,
+    amount_raw: 1000,
+    created_at: 'Sat, 18 May 2024 22:16:30 GMT',
+    currency: 'IDR',
+    donator: {
+      email: 'orfias7@gmail.com',
+      first_name: 'Payment Gateway',
+      phone: null
+    },
+    donator_id: null,
+    etc: {},
+    id: 'ID_Payment',
+    message: 'Payment for order',
+    need_notification: false,
+    payment_type: 'qris',
+    qr_string: 'QRIS_STRING',
+    status: 'PENDING',
+    type: 'donation',
+    user_id: 'User_ID',
+    expired_at: '18/05/2024 22:26:30',
+    receipt: 'https://saweria.co/qris/ID_Payment',
+    url: 'https://saweria.co/qris/ID_Payment',
+    qr_image: 'data:image/png;base64,'
+  }
+}
