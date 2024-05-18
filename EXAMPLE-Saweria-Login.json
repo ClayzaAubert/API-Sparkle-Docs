@@ -1,0 +1,8 @@
+{
+  powered: 'Powered By Saweria',
+  status: true,
+  data: {
+    user_id: 'User_ID',
+    token: 'User_Token'
+  }
+}
