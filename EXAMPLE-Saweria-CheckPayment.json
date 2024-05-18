@@ -1,0 +1,13 @@
+/* Payment Belum Selesai */
+{
+  powered: 'Powered By Saweria',
+  status: false,
+  msg: 'Transaksi Tidak terdaftar Atau belum terselesaikan. Silakan Cek kembali setelah transaksi terselesaikan.'
+}
+
+/* Payment Selesai */
+{ 
+  powered: 'Powered By Saweria',
+  status: true,
+  msg: 'BERHASIL'
+}
