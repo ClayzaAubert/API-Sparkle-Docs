@@ -7,7 +7,7 @@
 Ini Adalah API kedua saya, dengan sedikit fitur, silakan kunjungi https://api.maelyn.my.id untuk full fiturnya.
 
 ## Server Domain
-- https://clayza.my.id *[ Clayza Server ]* | **OFF**
+- https://clayza.biz.id *[ Clayza Server ]* | **ON**
 - https://rosalyn.my.id *[ Rosalyn Server ]* | **ON**
 - https://aubert.my.id *[ Aubert Server ]* | **ON**
 
