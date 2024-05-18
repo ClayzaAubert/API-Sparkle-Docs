@@ -55,7 +55,7 @@ Kami tidak pernah menyimpan akun pengguna di dalam sistem kami. Kami hanya menye
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `user_id`      | `string` | **Required**. Your User ID |
-| `amount`      | `number` | **Required**. Your amount (Minimum Rp. 10.000) |
+| `amount`      | `number` | **Required**. Your amount (Minimum Rp. 1.000) |
 | `msg`      | `string` | **Required**. Message Order |
 
 #### GET Saweria Check Payment
