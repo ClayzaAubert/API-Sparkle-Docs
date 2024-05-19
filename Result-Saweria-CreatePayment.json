@@ -14,7 +14,7 @@
     donator_id: null,
     etc: {},
     id: 'ID_Payment',
-    message: 'MESSAGE',
+    message: 'MESSAGE ORDER',
     need_notification: false,
     payment_type: 'qris',
     qr_string: 'QRIS_STRING',
