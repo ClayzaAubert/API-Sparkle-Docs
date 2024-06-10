@@ -66,6 +66,8 @@ Follow [Channel WhatsApp](https://s.id/MaelynChannel) saya untuk notifikasi UPDA
 | :-------- | :------- | :-------------------------------- |
 | `user_id`      | `string` | **Required**. Your User ID |
 | `amount`      | `number` | **Required**. Your amount (Minimum Rp. 1.000) |
+| `name`      | `string` | **Required**. Name order |
+| `email`      | `string` | **Required**. Email Order |
 | `msg`      | `string` | **Required**. Message Order |
 
 #### GET Saweria Check Payment
