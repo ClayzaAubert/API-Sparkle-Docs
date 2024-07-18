@@ -12,7 +12,6 @@ Kunjungi [API Maelyn](https://api.maelyn.me.id) Untuk Fitur yang lebih banyak.
 - [Saweria](https://saweria.co/ClayzaAubert)
 
 ## Server Domain
-- https://clayza.biz.id *[ Clayza Server ]* | **ON**
 - https://rosalyn.my.id *[ Rosalyn Server ]* | **ON**
 - https://aubert.my.id *[ Aubert Server ]* | **ON**
 
