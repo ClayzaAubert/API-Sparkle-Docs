@@ -1,19 +1,23 @@
-
 ![Logo](https://i.ibb.co.com/wrxBY9X/Sparkle.jpg)
-
 
 # API Sparkle
 
-API ini Adalah API FREE Kalian bisa memakainya tanpa limit harian. Di mohon untuk mengunakanya dengan bijak.
+> ⚠️ **Status: Tidak Aktif**
+> Semua fitur API Sparkle telah dipindahkan sepenuhnya ke platform **Maelyn**.
+> Silakan gunakan [https://maelyn.tech](https://maelyn.tech) untuk mengakses fitur-fitur terbaru dan dukungan penuh.
 
-Kunjungi [API Maelyn](https://api.maelyn.me.id) Untuk Fitur yang lebih banyak.
+---
 
-#### Donation
-- [Saweria](https://saweria.co/ClayzaAubert)
+API ini sebelumnya merupakan **API FREE** tanpa limit harian.
+Kini, semua layanan telah dialihkan ke sistem yang lebih baik dan stabil di Maelyn.
+Mohon gunakan layanan baru tersebut untuk pengalaman yang optimal.
 
-## Server Domain
-- https://rosalyn.my.id *[ Rosalyn Server ]* | **ON**
-- https://aubert.my.id *[ Aubert Server ]* | **ON**
+🔗 Kunjungi:
+
+* 🌐 **[Maelyn Tech](https://maelyn.tech)** — Layanan API terbaru
+* 🌐 **[Maelyn Group](https://maelyn.my.id)**
+
+---
 
 ## Disclaimer
 Kami tidak pernah menyimpan akun pengguna di dalam sistem kami. Kami hanya menyediakan API sebagai pihak ketiga untuk diintegrasikan ke dalam aplikasi Anda.
