@@ -14,7 +14,7 @@ Mohon gunakan layanan baru tersebut untuk pengalaman yang optimal.
 
 🔗 Kunjungi:
 
-* 🌐 **[Maelyn Tech](https://maelyn.tech)** — Layanan API terbaru
+* 🌐 **[Maelyn Tech](https://maelyn.sbs)** — Layanan API terbaru
 * 🌐 **[Maelyn Group](https://maelyn.my.id)**
 
 ---
