@@ -4,7 +4,7 @@
 
 > ⚠️ **Status: Tidak Aktif**
 > Semua fitur API Sparkle telah dipindahkan sepenuhnya ke platform **Maelyn**.
-> Silakan gunakan [https://maelyn.tech](https://maelyn.sbs) untuk mengakses fitur-fitur terbaru dan dukungan penuh.
+> Silakan gunakan [https://maelyn.sbs](https://maelyn.sbs) untuk mengakses fitur-fitur terbaru dan dukungan penuh.
 
 ---
 
